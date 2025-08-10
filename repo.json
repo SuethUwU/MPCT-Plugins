@@ -1,0 +1,10 @@
+{
+  "name": "MPCT Test",
+  "plugins": [
+    {
+      "name": "TestPlugin",
+      "file": "plugins/TestPlugin.cs",
+      "version": 1
+    }
+  ]
+}
